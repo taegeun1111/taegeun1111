@@ -1,3 +1,4 @@
+<br><br>
 ## 👋 Taegeun Kim
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegeun1111&count_bg=%23B3E78B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
@@ -7,7 +8,8 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=taegeun1111/)](taegeun1111/)<p align='left'><b>
 You can view my resume <a href='taegeun1111 ' target=_blank><u>here</u>.</a></b></p><br>
 
-<h3>📚 Tech Stack 📚</h3>
+<h3>📚 Tech Stack</h3>
+<div style= "display: flex;">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
@@ -15,6 +17,9 @@ You can view my resume <a href='taegeun1111 ' target=_blank><u>here</u>.</a></b>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
+  </div><br>
+  
+  
 ## 📊 My Github Stats
 
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=taegeun1111 alt=taegeun1111 /> </p> -->
