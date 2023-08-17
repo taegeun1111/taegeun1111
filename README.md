@@ -6,12 +6,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-taegeun4145@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:taegeun4145@gmail.com)](mailto:taegeun4145@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-taegeun1111-grey?style=flat&logo=github&logoColor=white&link=https://github.com/taegeun1111/)](https://www.github.com/taegeun1111/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=taegeun1111/)](taegeun1111/)<p align='left'><b>
-You can view my resume <a href='[taegeun1111 ](https://wind-hardboard-c59.notion.site/Kim-Tae-Geun-Porfolio-00c1c65deee846ada794beff5aa09fb3?pvs=4)' target=_blank><u>here</u>.</a></b></p><br>
+[이력서](https://wind-hardboard-c59.notion.site/Kim-Tae-Geun-Porfolio-00c1c65deee846ada794beff5aa09fb3?pvs=4).
 
 <h3>📚 Tech Stack</h3>
 <div style= "display: flex;">
   
-#### Frontend
+##### Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
@@ -22,22 +22,22 @@ You can view my resume <a href='[taegeun1111 ](https://wind-hardboard-c59.notion
 
 <br>
 
-#### Backend
+##### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot%20SQL-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 
 <br>
 
-#### Version & Server
+##### Version & Server
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/AmazonAWS-F80000?style=flat&logo=AmazonAWS&logoColor=white" />
+<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 
 <br>
 
-#### Database
+##### Database
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
