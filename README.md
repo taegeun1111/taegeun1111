@@ -8,6 +8,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=taegeun1111/)](taegeun1111/)<p align='left'><b>
 
 <hr>
+
 [이력서](https://wind-hardboard-c59.notion.site/Kim-Tae-Geun-Porfolio-00c1c65deee846ada794beff5aa09fb3?pvs=4)
 <hr>
 
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 
 <br>
+
 ##### Database
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
