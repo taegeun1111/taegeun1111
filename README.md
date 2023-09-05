@@ -5,7 +5,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-taegeun4145@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:taegeun4145@gmail.com)](mailto:taegeun4145@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-taegeun1111-grey?style=flat&logo=github&logoColor=white&link=https://github.com/taegeun1111/)](https://www.github.com/taegeun1111/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=taegeun1111/)](taegeun1111/)<p align='left'><b>
 
 <hr>
 
@@ -53,7 +52,6 @@
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=taegeun1111 alt=taegeun1111 /> </p> -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=taegeun1111&show_icons=true&include_all_commits=true)](https://github.com/taegeun1111/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegeun1111&layout=compact)](https://github.com/taegeun1111/github-readme-stats)<br><br>
 
 ## 🛠 algorithm
 
