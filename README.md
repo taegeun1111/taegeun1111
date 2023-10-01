@@ -46,14 +46,6 @@
 
 </div><br>
   
-  
-## 📊 My Github Stats
-
-<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=taegeun1111 alt=taegeun1111 /> </p> -->
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=taegeun1111&show_icons=true&include_all_commits=true)](https://github.com/taegeun1111/github-readme-stats)
-
 ## 🛠 algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taegeun1111)](https://solved.ac/taegeun1111)
-<hr>
