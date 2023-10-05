@@ -4,12 +4,7 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaegeun1111&count_bg=%23B3E78B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 [![Gmail Badge](https://img.shields.io/badge/-taegeun4145@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:taegeun4145@gmail.com)](mailto:taegeun4145@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-taegeun1111-grey?style=flat&logo=github&logoColor=white&link=https://github.com/taegeun1111/)](https://www.github.com/taegeun1111/)
 
-<hr>
-
-[이력서](https://wind-hardboard-c59.notion.site/Kim-Tae-Geun-Porfolio-00c1c65deee846ada794beff5aa09fb3?pvs=4)
-<hr>
 
 <h3>📚 Tech Stack</h3>
 <div style= "display: flex;">
